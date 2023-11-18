@@ -1,0 +1,29 @@
+﻿{
+  "applicationCaption": "Probnyjj__proekt",
+  "applicationTitle": "Probnyjj__proekt",
+  "items": [
+    {
+      "link": null,
+      "menuName": "probnyjj-proekt",
+      "caption": "Probnyjj__proekt",
+      "title": "Probnyjj__proekt",
+      "children": [
+        {
+          "link": "i-i-s-probnyjj-proekt-город-l",
+          "menuName": null,
+          "caption": "Город",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-probnyjj-proekt-здание-l",
+          "menuName": null,
+          "caption": "Здание",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}

@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-probnyjj-proekt-город-e",
+  "editForm": "i-i-s-probnyjj-proekt-город-e",
+  "external": false,
+  "caption": "Город",
+  "name": "IISProbnyjj__proektГородL",
+  "className": "ГородL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-probnyjj-proekt-город",
+      "modelProjection": "ГородL"
+    }
+  ]
+}
